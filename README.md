@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cort4n4
+- 👀 I’m interested in food, games, sports
+- 🌱 I’m currently learning JavaScript
